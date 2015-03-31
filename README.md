@@ -2,7 +2,7 @@
 
 On page load, a prompt will appear asking you to guess a randomly generated number from 1 - 100.
 
-On the top left corner of the page, the randomly generated number will be displayed.
+On the top left corner of the page, the randomly generated number will be displayed after 3 tries.
 
 Guesses that are too high or too low will each display separate messages.
 
